@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-11-22 18:15+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2025-11-22 19:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. js-lingui-explicit-id
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:23
+#~ msgid "Schedule"
+#~ msgstr ""
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:57
+#~ msgid "Email or Username is required"
+#~ msgstr "Adresse e-mail ou nom d’utilisateur requis"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:62
+#~ msgid "Email or Username"
+#~ msgstr "Adresse e-mail ou nom d’utilisateur"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:73
+#~ msgid "Password is required"
+#~ msgstr "Mot de passe requis"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:79
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:52
+msgid "Account Settings"
+msgstr "Paramètres du compte"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:44
+msgid "Add New Customer"
+msgstr "Ajouter un nouveau client"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:82
+msgid "Add New Program"
+msgstr "Ajouter un nouveau programme"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:104
+msgid "Add New Project"
+msgstr "Ajouter un nouveau projet"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:193
+msgid "Aggregate (ADP)"
+msgstr "Agrégat (ADP)"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:117
+msgid "Alerts"
+msgstr "Alertes"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:52
+msgid "An unexpected error occurred. Please try again."
+msgstr "Une erreur inattendue s'est produite. Veuillez réessayer."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:158
+msgid "Attestation Report"
+msgstr "Rapport d’attestation"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:209
+msgid "Audit Tail"
+msgstr "Piste d'audit"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:221
+msgid "Batch Logs*"
+msgstr "Journaux de lots*"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:146
+msgid "Bill Prep"
+msgstr "Préparation de la facturation"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:181
+msgid "Capacity Planning"
+msgstr "Planification de la capacité"
+
+#: src/features/field/layout/sidebar/FieldSidebar.tsx:46
+#~ msgid "Category Reset"
+#~ msgstr ""
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:39
+msgid "Category-Reset"
+msgstr "Réinitialisation de catégorie"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:77
+msgid "Code: {errorCode}"
+msgstr "Code : {errorCode}"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:87
+msgid "Continuity"
+msgstr "Continuité"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:201
+msgid "Cost Center"
+msgstr "Centre de coûts"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:45
+msgid "Custom-Scan"
+msgstr "Scan personnalisé"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:27
+msgid "Customers"
+msgstr "Clients"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:110
+msgid "Cycles"
+msgstr "Cycles"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:20
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:124
+msgid "Delete"
+msgstr "Supprimer"
+
+#: src/features/field/layout/sidebar/FieldSidebar.tsx:41
+#~ msgid "Distribution Void"
+#~ msgstr ""
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:51
+msgid "Distribution-Void"
+msgstr "Distribution nulle"
+
+#: src/features/admin/auth/LoginFormContent.tsx:63
+#: src/features/field/auth/LoginFormContent.tsx:63
+msgid "Email or Username"
+msgstr "Adresse e-mail ou nom d’utilisateur"
+
+#: src/features/admin/auth/LoginFormContent.tsx:56
+#: src/features/field/auth/LoginFormContent.tsx:56
+msgid "Email or Username is required"
+msgstr "Adresse e-mail ou nom d’utilisateur requis"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:111
+msgid "Enter SAS ID"
+msgstr "Saisir l'ID SAS"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:103
+msgid "Enter shift ID"
+msgstr "Saisir l'ID de quart"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:95
+msgid "Enter visit ID"
+msgstr "Saisir l'ID de visite"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:223
+#~ msgid "Error code: {errorCode}"
+#~ msgstr ""
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:205
+msgid "Expense"
+msgstr "Dépense"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:162
+msgid "Expense Logs"
+msgstr "Journaux de dépenses"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:137
+msgid "Export failed. Please check your filters and try again."
+msgstr "L'exportation a échoué. Veuillez vérifier vos filtres et réessayer."
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:184
+msgid "Export to CSV"
+msgstr "Exporter en CSV"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:181
+msgid "Exporting..."
+msgstr "Exportation en cours..."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:138
+msgid "Field Data Management"
+msgstr "Gestion des données terrain"
+
+#: src/features/admin/operations/time-logs/DateFilters.tsx:26
+msgid "From Date"
+msgstr "Date de début"
+
+#: src/features/admin/auth/LoginForm.tsx:34
+msgid "Hello!"
+msgstr "Bonjour !"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:48
+msgid "Item Management"
+msgstr "Gestion des articles"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:52
+msgid "Item Update"
+msgstr "Mise à jour des articles"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:33
+msgid "Item-Audit"
+msgstr "Audit d'article"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:93
+msgid "Item-Opportunity"
+msgstr "Opportunité d'article"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:56
+msgid "Item-Store Distribution"
+msgstr "Répartition article-magasin"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:56
+#: src/features/field/layout/appbar/FieldNavUser.tsx:76
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: src/features/field/auth/LoginForm.tsx:29
+msgid "Login"
+msgstr "Connexion"
+
+#: src/features/admin/auth/LoginFormContent.tsx:98
+#: src/features/field/auth/LoginFormContent.tsx:98
+msgid "Login failed. Please check your credentials and try again."
+msgstr "La connexion a échoué. Veuillez vérifier vos identifiants et réessayer."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:150
+msgid "Logs"
+msgstr "Journaux"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:40
+msgid "Manage Customers"
+msgstr "Gérer les clients"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:78
+msgid "Manage Program"
+msgstr "Gérer le programme"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:100
+msgid "Manage Projects"
+msgstr "Gérer les projets"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:48
+msgid "My Profile"
+msgstr "Mon profil"
+
+#: src/features/field/layout/appbar/FieldNavUser.tsx:67
+msgid "My Schedule"
+msgstr "Mon planning"
+
+#: src/features/admin/auth/LoginFormContent.tsx:137
+#: src/features/field/auth/LoginFormContent.tsx:137
+msgid "Need Help? <0>Open a ticket</0> or call 1-888-900-4276"
+msgstr "Besoin d’aide ? <0>Ouvrez un ticket</0> ou appelez le 1-888-900-4276"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:122
+msgid "New"
+msgstr "Nouveau"
+
+#: src/features/admin/layout/appbar/notification-menu.tsx:44
+#~ msgid "New message received"
+#~ msgstr ""
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:57
+msgid "NICI"
+msgstr "NICI"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:59
+msgid "No new notifications"
+msgstr "Aucune nouvelle notification"
+
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:51
+msgid "No scheduled visits"
+msgstr "Aucune visite programmée"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:46
+msgid "Notifications"
+msgstr "Notifications"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:177
+msgid "Operation Report"
+msgstr "Rapport d'opération"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:129
+msgid "Operations"
+msgstr "Opérations"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:172
+msgid "Operations Report"
+msgstr "Rapport des opérations"
+
+#: src/features/admin/auth/LoginFormContent.tsx:81
+#: src/features/field/auth/LoginFormContent.tsx:81
+msgid "Password"
+msgstr "Mot de passe"
+
+#: src/features/admin/auth/LoginFormContent.tsx:74
+#: src/features/field/auth/LoginFormContent.tsx:74
+msgid "Password is required"
+msgstr "Mot de passe requis"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:217
+msgid "Payroll Admin*"
+msgstr "Admin Paie*"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:187
+msgid "Payroll Report"
+msgstr "Rapport de paie"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:63
+msgid "Planogram-Compliance"
+msgstr "Conformité planogramme"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:66
+msgid "Program"
+msgstr "Programme"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:88
+msgid "Projects"
+msgstr "Projets"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:69
+msgid "Promo-Audit"
+msgstr "Audit promo"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:75
+msgid "Quick-Scanning"
+msgstr "Scan rapide"
+
+#: src/features/admin/auth/LoginFormContent.tsx:90
+#: src/features/field/auth/LoginFormContent.tsx:90
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:152
+msgid "RESET"
+msgstr "RÉINITIALISER"
+
+#: src/features/admin/auth/LoginFormContent.tsx:134
+#: src/features/field/auth/LoginFormContent.tsx:134
+msgid "Reset Password?"
+msgstr "Réinitialiser le mot de passe ?"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:134
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:21
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:40
+msgid "Schedule"
+msgstr "Planning"
+
+#: src/features/admin/operations/time-logs/EmployeeFilters.tsx:37
+msgid "Search Employee Name"
+msgstr "Rechercher un nom d'employé"
+
+#: src/features/admin/operations/time-logs/EmployeeFilters.tsx:48
+msgid "Search Modified By Name"
+msgstr "Rechercher par nom de modificateur"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:119
+msgid "Select Change Type"
+msgstr "Sélectionner le type de changement"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:197
+msgid "Shift"
+msgstr "Quart"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:105
+msgid "Shift-Completion"
+msgstr "Fin de quart"
+
+#: src/features/admin/auth/LoginFormContent.tsx:123
+#: src/features/field/auth/LoginFormContent.tsx:123
+msgid "SIGN IN"
+msgstr "SE CONNECTER"
+
+#: src/features/admin/auth/LoginFormContent.tsx:120
+#: src/features/field/auth/LoginFormContent.tsx:120
+msgid "Signing in..."
+msgstr "Connexion en cours..."
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:27
+msgid "Store"
+msgstr "Magasin"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:99
+msgid "Store-Visit-Summary"
+msgstr "Résumé de visite magasin"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:81
+msgid "Survey"
+msgstr "Enquête"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:142
+msgid "Time Expense"
+msgstr "Temps et dépenses"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:154
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:71
+msgid "Time Logs"
+msgstr "Journaux de temps"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:213
+msgid "Time Pairs"
+msgstr "Paires de temps"
+
+#: src/features/admin/operations/time-logs/DateFilters.tsx:37
+msgid "To Date"
+msgstr "Date de fin"
+
+#: src/features/field/layout/sidebar/sidebar-parts/schedule/components/ScheduleDayItem.tsx:58
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: src/features/field/layout/appbar/FieldSiteHeader.tsx:26
+msgid "Toggle menu"
+msgstr "Basculer le menu"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:166
+msgid "Travel Logs"
+msgstr "Journaux de déplacement"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:123
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:42
+#: src/features/field/layout/appbar/FieldNavUser.tsx:59
+msgid "User menu"
+msgstr "Menu utilisateur"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:98
+msgid "View all notifications"
+msgstr "Voir toutes les notifications"
+
+#: src/features/admin/auth/LoginForm.tsx:37
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:60
+msgid "Workflag Refernce Table"
+msgstr "Table de référence Workflag"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:123
+msgid "Workforce"
+msgstr "Main-d’œuvre"

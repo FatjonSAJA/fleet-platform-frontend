@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-11-22 18:15+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:23
+#~ msgid "Schedule"
+#~ msgstr "Schedule"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:57
+#~ msgid "Email or Username is required"
+#~ msgstr "Email or Username is required"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:62
+#~ msgid "Email or Username"
+#~ msgstr "Email or Username"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:73
+#~ msgid "Password is required"
+#~ msgstr "Password is required"
+
+#. js-lingui-explicit-id
+#: src/components/auth/login/LoginFormContent.tsx:79
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:52
+msgid "Account Settings"
+msgstr "Account Settings"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:44
+msgid "Add New Customer"
+msgstr "Add New Customer"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:82
+msgid "Add New Program"
+msgstr "Add New Program"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:104
+msgid "Add New Project"
+msgstr "Add New Project"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:193
+msgid "Aggregate (ADP)"
+msgstr "Aggregate (ADP)"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:117
+msgid "Alerts"
+msgstr "Alerts"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:52
+msgid "An unexpected error occurred. Please try again."
+msgstr "An unexpected error occurred. Please try again."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:158
+msgid "Attestation Report"
+msgstr "Attestation Report"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:209
+msgid "Audit Tail"
+msgstr "Audit Tail"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:221
+msgid "Batch Logs*"
+msgstr "Batch Logs*"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:146
+msgid "Bill Prep"
+msgstr "Bill Prep"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:181
+msgid "Capacity Planning"
+msgstr "Capacity Planning"
+
+#: src/features/field/layout/sidebar/FieldSidebar.tsx:46
+#~ msgid "Category Reset"
+#~ msgstr "Category Reset"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:39
+msgid "Category-Reset"
+msgstr "Category-Reset"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:77
+msgid "Code: {errorCode}"
+msgstr "Code: {errorCode}"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:87
+msgid "Continuity"
+msgstr "Continuity"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:201
+msgid "Cost Center"
+msgstr "Cost Center"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:45
+msgid "Custom-Scan"
+msgstr "Custom-Scan"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:27
+msgid "Customers"
+msgstr "Customers"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:110
+msgid "Cycles"
+msgstr "Cycles"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:20
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:124
+msgid "Delete"
+msgstr "Delete"
+
+#: src/features/field/layout/sidebar/FieldSidebar.tsx:41
+#~ msgid "Distribution Void"
+#~ msgstr "Distribution Void"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:51
+msgid "Distribution-Void"
+msgstr "Distribution-Void"
+
+#: src/features/admin/auth/LoginFormContent.tsx:63
+#: src/features/field/auth/LoginFormContent.tsx:63
+msgid "Email or Username"
+msgstr "Email or Username"
+
+#: src/features/admin/auth/LoginFormContent.tsx:56
+#: src/features/field/auth/LoginFormContent.tsx:56
+msgid "Email or Username is required"
+msgstr "Email or Username is required"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:111
+msgid "Enter SAS ID"
+msgstr "Enter SAS ID"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:103
+msgid "Enter shift ID"
+msgstr "Enter shift ID"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:95
+msgid "Enter visit ID"
+msgstr "Enter visit ID"
+
+#: src/components/forms/shared/FormErrorAlert.tsx:223
+#~ msgid "Error code: {errorCode}"
+#~ msgstr "Error code: {errorCode}"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:205
+msgid "Expense"
+msgstr "Expense"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:162
+msgid "Expense Logs"
+msgstr "Expense Logs"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:137
+msgid "Export failed. Please check your filters and try again."
+msgstr "Export failed. Please check your filters and try again."
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:184
+msgid "Export to CSV"
+msgstr "Export to CSV"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:181
+msgid "Exporting..."
+msgstr "Exporting..."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:138
+msgid "Field Data Management"
+msgstr "Field Data Management"
+
+#: src/features/admin/operations/time-logs/DateFilters.tsx:26
+msgid "From Date"
+msgstr "From Date"
+
+#: src/features/admin/auth/LoginForm.tsx:34
+msgid "Hello!"
+msgstr "Hello!"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:48
+msgid "Item Management"
+msgstr "Item Management"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:52
+msgid "Item Update"
+msgstr "Item Update"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:33
+msgid "Item-Audit"
+msgstr "Item-Audit"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:93
+msgid "Item-Opportunity"
+msgstr "Item-Opportunity"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:56
+msgid "Item-Store Distribution"
+msgstr "Item-Store Distribution"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:56
+#: src/features/field/layout/appbar/FieldNavUser.tsx:76
+msgid "Log out"
+msgstr "Log out"
+
+#: src/features/field/auth/LoginForm.tsx:29
+msgid "Login"
+msgstr "Login"
+
+#: src/features/admin/auth/LoginFormContent.tsx:98
+#: src/features/field/auth/LoginFormContent.tsx:98
+msgid "Login failed. Please check your credentials and try again."
+msgstr "Login failed. Please check your credentials and try again."
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:150
+msgid "Logs"
+msgstr "Logs"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:40
+msgid "Manage Customers"
+msgstr "Manage Customers"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:78
+msgid "Manage Program"
+msgstr "Manage Program"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:100
+msgid "Manage Projects"
+msgstr "Manage Projects"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:48
+msgid "My Profile"
+msgstr "My Profile"
+
+#: src/features/field/layout/appbar/FieldNavUser.tsx:67
+msgid "My Schedule"
+msgstr "My Schedule"
+
+#: src/features/admin/auth/LoginFormContent.tsx:137
+#: src/features/field/auth/LoginFormContent.tsx:137
+msgid "Need Help? <0>Open a ticket</0> or call 1-888-900-4276"
+msgstr "Need Help? <0>Open a ticket</0> or call 1-888-900-4276"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:122
+msgid "New"
+msgstr "New"
+
+#: src/features/admin/layout/appbar/notification-menu.tsx:44
+#~ msgid "New message received"
+#~ msgstr "New message received"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:57
+msgid "NICI"
+msgstr "NICI"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:59
+msgid "No new notifications"
+msgstr "No new notifications"
+
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:51
+msgid "No scheduled visits"
+msgstr "No scheduled visits"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:46
+msgid "Notifications"
+msgstr "Notifications"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:177
+msgid "Operation Report"
+msgstr "Operation Report"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:129
+msgid "Operations"
+msgstr "Operations"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:172
+msgid "Operations Report"
+msgstr "Operations Report"
+
+#: src/features/admin/auth/LoginFormContent.tsx:81
+#: src/features/field/auth/LoginFormContent.tsx:81
+msgid "Password"
+msgstr "Password"
+
+#: src/features/admin/auth/LoginFormContent.tsx:74
+#: src/features/field/auth/LoginFormContent.tsx:74
+msgid "Password is required"
+msgstr "Password is required"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:217
+msgid "Payroll Admin*"
+msgstr "Payroll Admin*"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:187
+msgid "Payroll Report"
+msgstr "Payroll Report"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:63
+msgid "Planogram-Compliance"
+msgstr "Planogram-Compliance"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:66
+msgid "Program"
+msgstr "Program"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:88
+msgid "Projects"
+msgstr "Projects"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:69
+msgid "Promo-Audit"
+msgstr "Promo-Audit"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:75
+msgid "Quick-Scanning"
+msgstr "Quick-Scanning"
+
+#: src/features/admin/auth/LoginFormContent.tsx:90
+#: src/features/field/auth/LoginFormContent.tsx:90
+msgid "Remember me"
+msgstr "Remember me"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:152
+msgid "RESET"
+msgstr "RESET"
+
+#: src/features/admin/auth/LoginFormContent.tsx:134
+#: src/features/field/auth/LoginFormContent.tsx:134
+msgid "Reset Password?"
+msgstr "Reset Password?"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:134
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:21
+#: src/features/field/layout/sidebar/sidebar-parts/FieldSidebarSchedule.tsx:40
+msgid "Schedule"
+msgstr "Schedule"
+
+#: src/features/admin/operations/time-logs/EmployeeFilters.tsx:37
+msgid "Search Employee Name"
+msgstr "Search Employee Name"
+
+#: src/features/admin/operations/time-logs/EmployeeFilters.tsx:48
+msgid "Search Modified By Name"
+msgstr "Search Modified By Name"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:119
+msgid "Select Change Type"
+msgstr "Select Change Type"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:197
+msgid "Shift"
+msgstr "Shift"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:105
+msgid "Shift-Completion"
+msgstr "Shift-Completion"
+
+#: src/features/admin/auth/LoginFormContent.tsx:123
+#: src/features/field/auth/LoginFormContent.tsx:123
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+#: src/features/admin/auth/LoginFormContent.tsx:120
+#: src/features/field/auth/LoginFormContent.tsx:120
+msgid "Signing in..."
+msgstr "Signing in..."
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:27
+msgid "Store"
+msgstr "Store"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:99
+msgid "Store-Visit-Summary"
+msgstr "Store-Visit-Summary"
+
+#: src/features/field/layout/sidebar/fieldSidebarData.ts:81
+msgid "Survey"
+msgstr "Survey"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:142
+msgid "Time Expense"
+msgstr "Time Expense"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:154
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:71
+msgid "Time Logs"
+msgstr "Time Logs"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:213
+msgid "Time Pairs"
+msgstr "Time Pairs"
+
+#: src/features/admin/operations/time-logs/DateFilters.tsx:37
+msgid "To Date"
+msgstr "To Date"
+
+#: src/features/field/layout/sidebar/sidebar-parts/schedule/components/ScheduleDayItem.tsx:58
+msgid "Today"
+msgstr "Today"
+
+#: src/features/field/layout/appbar/FieldSiteHeader.tsx:26
+msgid "Toggle menu"
+msgstr "Toggle menu"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:166
+msgid "Travel Logs"
+msgstr "Travel Logs"
+
+#: src/features/admin/operations/time-logs/TimeLogsFilterForm.tsx:123
+msgid "Update"
+msgstr "Update"
+
+#: src/features/admin/layout/appbar/NavUser.tsx:42
+#: src/features/field/layout/appbar/FieldNavUser.tsx:59
+msgid "User menu"
+msgstr "User menu"
+
+#: src/features/admin/layout/appbar/NotificationMenu.tsx:98
+msgid "View all notifications"
+msgstr "View all notifications"
+
+#: src/features/admin/auth/LoginForm.tsx:37
+msgid "Welcome"
+msgstr "Welcome"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:60
+msgid "Workflag Refernce Table"
+msgstr "Workflag Refernce Table"
+
+#: src/features/admin/layout/sidebar/adminSidebarData.ts:123
+msgid "Workforce"
+msgstr "Workforce"
